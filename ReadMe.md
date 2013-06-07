@@ -2,6 +2,13 @@
 
 A port of my OmniFocus Keyboard Maestro Function Macros.
 
+## Update ##
+
+As of 2013-06-07, the plugins have been removed from this repo. I am no longer a OmniFocus user. It would be irresponsible and careless of me to provide Keyboard Maestro plugins that I have no intention to support
+
+If you are interested in maintaining the Keyboard Maestro plugins for future use, feel free to contact me.
+
+
 ## Installation
 
 1. Drag the zip files to Keyboard Maestro's Dock Icon.
